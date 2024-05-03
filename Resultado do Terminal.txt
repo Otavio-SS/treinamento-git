@@ -1,0 +1,48 @@
+Last login: Fri May  3 09:56:32 on ttys000
+bi008769@bhz-a-011000 ~ % cd treinamento-git
+bi008769@bhz-a-011000 treinamento-git % git commit
+hint: Waiting for your editor to close the file... 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Otavio Silva Santana <bi008769@bhz-a-011000.intermedium.local>
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes to be committed:
+#       new file:   Bob.txt
+#
+Treinamento teste
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+
